@@ -130,7 +130,7 @@
 .form-group input,.form-group textarea {
     border: none;
     background: var(--color-white);
-    padding: 1.5rem 2rem;
+    padding: 1rem 1rem;
     width: 100%;
     font-size: 3rem;
     outline: none;
@@ -156,6 +156,7 @@ transition: all 300ms ease-in-out;
 }
 .form-group ::placeholder {
     color: lightgray;
+    font-size: 2.7rem;
     
 }
 
